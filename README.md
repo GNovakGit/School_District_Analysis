@@ -1,2 +1,4 @@
 # School_District_Analysis
 UofU Bootcamp Repository Module 4
+
+Within this analysis of school districts we will find data representing student name, grade, school name, reading scores, math scores, charter/public schools, and school budget. There were 1836 instances of duplicate data removed to begin our analysis. Firstly, out of all students observed we see an average reading score of 72.6 and a average math score of 64.68. When we looked at grade 9 specifically, the average reading score decreased to 69.236713 and the average math score 66.59. Shockingly, the minimum reading score represented is 10.5 for a charter school student. When viewing the differences between charter and public schools, we see amost no difference between the average reading scores (Charter = 72.450603 Public = 72.281219). Interestingly, the data represents more students in the public school category than charter (Charter = 72.450603 Public = 72.281219).
